@@ -23,7 +23,7 @@ https://mcp.tripworks.com/mcp
 
 ### Claude
 
-Claude.ai and Claude Desktop: Settings > Connectors > Add custom connector, paste the URL.
+Claude.ai and Claude Desktop: Settings > Connectors > Add custom connector, paste the URL. Step-by-step: [Connect Claude to TripWorks](https://help.tripworks.com/connect-ai-assistants/claude-connector-for-tripworks).
 
 Claude Code:
 
@@ -99,10 +99,12 @@ New tools are added regularly.
 
 ## Building software instead?
 
-For your own integrations use the [TripWorks REST API](https://api-docs.tripworks.com) ([OpenAPI spec](https://api-docs.tripworks.com/openapi.json)). MCP is for a person talking to an assistant; the REST API is for software.
+For your own integrations use the [TripWorks REST API](https://api-docs.tripworks.com) ([OpenAPI spec](https://api-docs.tripworks.com/openapi.json)). MCP is for a person talking to an assistant; the REST API is for software. Not sure which fits? See [Does TripWorks have an API?](https://help.tripworks.com/api-and-integrations/does-tripworks-have-an-api)
 
 ## Links
 
-- [TripWorks](https://www.tripworks.com)
-- [Help center](https://help.tripworks.com)
+- [TripWorks](https://www.tripworks.com), tour and activity booking software · [Book a demo](https://www.tripworks.com/book-a-demo)
+- [Help center](https://help.tripworks.com) · [MCP setup guide](https://help.tripworks.com/connect-ai-assistants/connect-tripworks-mcp-to-your-ai-assistant)
+- [REST API docs](https://api-docs.tripworks.com) · [OpenAPI spec](https://api-docs.tripworks.com/openapi.json) · [llms.txt](https://www.tripworks.com/llms.txt)
+- [Official MCP Registry listing](https://registry.modelcontextprotocol.io/?q=com.tripworks%2Ftripworks)
 - [Support](mailto:support@tripworks.com)
