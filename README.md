@@ -1,5 +1,7 @@
 # TripWorks MCP Server
 
+[![TripWorks Tour and Activity Booking MCP connector – tool definition quality and endpoint health on Glama](https://glama.ai/mcp/connectors/com.tripworks/tripworks/badges/score.svg)](https://glama.ai/mcp/connectors/com.tripworks/tripworks)
+
 Ask your AI assistant about your tours, activities and attractions, and let it make changes for you, in plain English. The TripWorks MCP server connects Claude, ChatGPT, Gemini and other [Model Context Protocol](https://modelcontextprotocol.io) clients to your live [TripWorks](https://www.tripworks.com) booking account.
 
 - **Remote server, nothing to install.** Streamable HTTP at `https://mcp.tripworks.com/mcp`
