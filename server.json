@@ -1,0 +1,27 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.tripworks/tripworks",
+  "title": "TripWorks Tour and Activity Booking",
+  "description": "Search and manage tour and activity bookings, guests, manifests and sales reports in TripWorks.",
+  "repository": {
+    "url": "https://github.com/tripworkscode/tripworks-mcp",
+    "source": "github"
+  },
+  "version": "1.0.2",
+  "websiteUrl": "https://help.tripworks.com/integrations/connect-tripworks-mcp-to-your-ai-assistant",
+  "icons": [
+    {
+      "src": "https://cdn-images.tripworks.com/images/logos/tripworks-logo-square.svg",
+      "mimeType": "image/svg+xml",
+      "sizes": [
+        "any"
+      ]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.tripworks.com/mcp"
+    }
+  ]
+}
